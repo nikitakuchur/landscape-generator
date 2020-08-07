@@ -1,5 +1,5 @@
 # Landscape generator
-Two neural networks implemented in PyTorch for heighmap generation.
+Two neural networks implemented in PyTorch for heightmap generation.
 You can read an article about this project [here](https://github.com/nikitakuchur/landscape-generator/blob/master/article/heightmap-generation-with-neural-networks.pdf) (RUS).
 
 Note, that I'm not a Python developer and I have no experience with neural networks. Please, let me know if you find any strange things in this code that I should fix. Thank you.
