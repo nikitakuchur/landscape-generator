@@ -25,7 +25,7 @@ VAE terrains
 ![VAE terrains](https://github.com/nikitakuchur/landscape-generator/blob/master/images/vae-3d.png)
 
 
-## GAN
+## Generative adversarial network
 
 GAN generation
 
