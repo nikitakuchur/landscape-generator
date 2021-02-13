@@ -26,7 +26,7 @@ In the following sections, you can see some interesting results that I accomplis
 ![VAE terrains](https://github.com/nikitakuchur/landscape-generator/blob/master/images/vae-3d.png)
 
 
-## Generative adversarial network
+## Generative Adversarial Network
 
 ### Generation
 
