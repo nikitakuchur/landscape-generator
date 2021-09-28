@@ -11,31 +11,31 @@ In the following sections, you can see some interesting results that I accomplis
 
 ### Reconstruction
 
-![VAE reconstruction](https://github.com/nikitakuchur/landscape-generator/blob/master/images/vae-reconstruction.png)
+![VAE reconstruction](https://github.com/nikitakuchur/landscape-generator/blob/main/images/vae-reconstruction.png)
 
 ### Generation
 
-![VAE generation](https://github.com/nikitakuchur/landscape-generator/blob/master/images/vae-generation.png)
+![VAE generation](https://github.com/nikitakuchur/landscape-generator/blob/main/images/vae-generation.png)
 
 ### Interpolation
 
-![VAE interpolation](https://github.com/nikitakuchur/landscape-generator/blob/master/images/vae-interpolation.png)
+![VAE interpolation](https://github.com/nikitakuchur/landscape-generator/blob/main/images/vae-interpolation.png)
 
 ### Terrains
 
-![VAE terrains](https://github.com/nikitakuchur/landscape-generator/blob/master/images/vae-3d.png)
+![VAE terrains](https://github.com/nikitakuchur/landscape-generator/blob/main/images/vae-3d.png)
 
 
 ## Generative Adversarial Network
 
 ### Generation
 
-![GAN generation](https://github.com/nikitakuchur/landscape-generator/blob/master/images/gan-generation.png)
+![GAN generation](https://github.com/nikitakuchur/landscape-generator/blob/main/images/gan-generation.png)
 
 ### Interpolation
 
-![GAN interpolation](https://github.com/nikitakuchur/landscape-generator/blob/master/images/gan-interpolation.png)
+![GAN interpolation](https://github.com/nikitakuchur/landscape-generator/blob/main/images/gan-interpolation.png)
 
 ### Terrains
 
-![GAN terrains](https://github.com/nikitakuchur/landscape-generator/blob/master/images/gan-3d.png)
+![GAN terrains](https://github.com/nikitakuchur/landscape-generator/blob/main/images/gan-3d.png)
